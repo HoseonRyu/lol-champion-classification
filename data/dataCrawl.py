@@ -101,7 +101,7 @@ def do_action(ids,driver,index):
 
 
 for i in range(3000):
-	f = open("C:/Users/Hoseon1/gmProject/output.txt",'a')
+	f = open("./output.txt",'a')
 	f.write(do_action(ids,drv,index))
 	f.close()
 
