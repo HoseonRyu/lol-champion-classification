@@ -15,5 +15,5 @@ The basic approach is Louvian method.
 
 ### Files
 - ```python classifier/model2.py``` : Implements on Model-2
-- ```data/dataCrawl.py``` : Web scraping on [fow](https://fow.kr, "link")
+- ```data/dataCrawl.py``` : Web scraping on [fow](https://fow.kr/, "link")
 - ```data/dataRemoveDup.py``` : Remove the duplicated games
