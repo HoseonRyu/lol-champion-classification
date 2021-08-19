@@ -1,5 +1,5 @@
-f = open("C:/Users/Hoseon1/gmProject/output.txt",'r')
-f_ = open("C:/Users/Hoseon1/gmProject/output_no_dup.txt",'w')
+f = open("./output.txt",'r')
+f_ = open("./output_no_dup.txt",'w')
 
 gameid = []
 output = ""
